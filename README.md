@@ -31,10 +31,7 @@ Tailwind CSS
 Vitest + Testing Library
 
 ## 📝 Reflection
-Optional props are handled with ? in the interface and default values in destructuring.
-
-Interfaces are designed to make required data required and extras optional.
-
-Type safety comes from the union AlertType and typed callbacks like (userId: string) => void.
-
-Composition is achieved by letting components accept children and by managing shared state (showAlert, cartItems) at the App level.
+1. Optional props are handled with ? in the interface and default values in destructuring.
+2. Interfaces are designed to make required data required and extras optional.
+3. Type safety comes from the union AlertType and typed callbacks like (userId: string) => void.
+4. Composition is achieved by letting components accept children and by managing shared state (showAlert, cartItems) at the App level.
