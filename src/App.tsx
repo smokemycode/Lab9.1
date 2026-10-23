@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { AlertBox } from './components/AlertBox/AlertBox';
 import { UserProfileCard } from './components/UserProfileCard/UserProfileCard';
 import { ProductDisplay } from './components/ProductDisplay/ProductDisplay';
-import { User, Product } from './types';
+import type { User, Product } from './types';
 
 const user: User = {
   id: '1',

@@ -1,3 +1,5 @@
+import type React from 'react';
+
 // ALERT BOX TYPES
 
 export type AlertType = 'success' | 'error' | 'warning' | 'info';
