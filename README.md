@@ -5,10 +5,10 @@ A small, reusable React + TypeScript component library built for internal applic
 
 ## 🚀 Getting Started
 
-```bash
-npm install
-npm run dev
-Open http://localhost:5173 in your browser.
+1. ```bash
+2. npm install
+3. npm run dev
+4. Open http://localhost:5173 in your browser.
 
 ## 📁 Project Structure
 text
